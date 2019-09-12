@@ -85,10 +85,7 @@ public class Products {
               System.out.println("Out");
       }
   }
-  public void xoaPhanTu() {
-      Scanner sc = new Scanner(System.in);
-      int chose = Integer.parseInt(sc.nextLine());
-  }
+
 
 
 }
